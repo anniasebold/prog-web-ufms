@@ -1,0 +1,35 @@
+html {
+  font-family: Calibri, 'Trebuchet MS', sans-serif;
+  width: 700px; 
+  margin-left: auto;
+  margin-right: auto;
+  font-size: smaller;
+  color: black;
+}
+
+table {
+  width: 680px;
+  border-collapse: collapse;
+}
+
+table, td {
+  border: 2px solid black;
+}
+
+td {
+  padding: 5px;
+}
+
+.title {
+  text-align: center;
+}
+
+h4 {
+  margin-bottom: 5px;
+}
+
+.media-p {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
